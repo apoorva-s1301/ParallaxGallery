@@ -134,6 +134,7 @@ export default function App() {
           );
         }}
       />
+      {/* <View /> */}
       <FlatList
         ref={bottomRef}
         data={images}
